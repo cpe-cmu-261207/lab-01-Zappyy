@@ -5,28 +5,28 @@
 }
 
 h1 {
-    font-family: 'Satisfy', cursive;
+    font-family: 'Futura', cursive;
     font-size: 35px;
     text-align: center;
     margin-top: 55px;
     /* color:rgb(194, 158, 128); */
-    color: rgb(116, 79, 0)
+    color: rgb(255, 138, 128)
 }
 
 h2 {
   font-size: 35px;
   text-align: center;
-  color: rgb(116, 79, 0);
+  color: rgb(255, 138, 128);
 }
 
 .header{
-  font-family: 'Baloo 2', cursive;
-  color: rgb(168, 166, 118);
+  font-family: 'Futura', cursive;
+  color: rgb(97, 215, 255);
   font-weight:700;
 }
 .detail-color{
-  font-family: 'Baloo 2', cursive;
-  color: rgb(168, 166, 118);
+  font-family: 'Futura', cursive;
+  color: rgb(97, 215, 255);
   font-weight:500
 }
 
