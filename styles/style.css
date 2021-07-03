@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color:white;
+    /* position: fixed; */
+    width: 100%;
+    top:0;
+    
+}
+
+.bg1{
+    /* background-color:rgb(211, 192, 163); */
+    background-color: rgb(189, 209, 197);
+    
+}
+
+.font1{
+    font-family: 'Caveat', cursive;
+}
+
+.font2{
+    font-family: 'Kirang Haerang', cursive;
+}
+
+.font-color{
+    /* color:rgb(116, 79, 0); */
+    color: rgb(115, 158, 132);
+}
+
+
+.title{
+    color: rgb(120, 90, 46);
+    opacity: .7;
+    font-weight: 300;
+    font-size: 40px;
+    /* padding-left: 100px; */
+    padding-top: 10px;
+    text-align: left;
+}
+
+.title span{
+    color: white;
+    font-weight: 500;
+    font-size: 60px;
+}
+
+.name{
+    /* margin-left: 180px; */
+    font-size: 60px;
+    /* padding-top: 30px; */
+    color:rgb(77, 67, 34);
+    font-weight: 400;
+    text-align: center;
+}
+
+.detail-me{
+    font-family: 'Jost', sans-serif;
+    /* margin-left: 150px ; */
+    margin-top: 40px;
+    font-size:24px;
+    width: 100%;
+    font-weight:500;
+    color:rgb(11, 87, 33);
+    text-align: left;
+}
+.containimage{
+    padding-top:50px;
+    width: 100%;
+    height: auto;
+    opacity: .9;
+    display: flex;
+    justify-content: center;
+}
+
+.skill{
+    /* margin-top:130px; */
+    /* margin-left:250px; */
+    text-align: left;
+}
+
+.titleSkill{
+    font-family: 'Satisfy', cursive;
+    color:rgb(116, 79, 0);
+    font-size: 35px;
+    text-transform:capitalize;
+    line-height: 3rem;
+}
+
+.headskill{
+    margin-top: 30px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 29px;
+    color: rgb(204, 121, 66)
+}
+
+.scriptskill{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color:rgb(134, 115, 53)
+}
+.part2 .detail-skill{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 5px;
+    margin-bottom: 200px;
+}
+
+.part2 .detail-skill .box{
+    width: 300px;
+    margin: 30px;
+}
+
+.part2 .detail-skill .box .skillpicbox{
+   position:relative;
+   width: 100%;
+   height: 300px;
+}    
+
+.part2 .detail-skill .box .skillpicbox img{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.part2 .detail-skill .box {
+    padding: 15px 0 5px;
+}
+
+.part2 .detail-skill .box h3{
+    font-weight: 100;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.part2 .detail-skill .box p{
+    font-weight: 100;
+    padding-top:10px;
+    padding-left: 20px;
+}
