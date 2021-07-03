@@ -5,7 +5,7 @@
 }
 
 .navbar{
-    background-color:rgb(64, 224, 208);
+    background-color:rgb(205, 92, 92);
     /* position: fixed; */
     width: 100%;
     top:0;
@@ -14,7 +14,7 @@
 
 .bg1{
     /* background-color:rgb(211, 192, 163); */
-    background-color: rgb(189, 209, 197);
+    background-color: rgb(250, 240, 230);
     
 }
 
@@ -101,7 +101,7 @@
     font-family: 'Futura', sans-serif;
     font-size: 20px;
     text-align: center;
-    color:rgb(134, 115, 53)
+    color:rgb(127, 255, 212)
 }
 .part2 .detail-skill{
     display: flex;
