@@ -58,13 +58,13 @@
 }
 
 .detail-me{
-    font-family: 'Jost', sans-serif;
+    font-family: 'Futura', sans-serif;
     /* margin-left: 150px ; */
     margin-top: 40px;
     font-size:24px;
     width: 100%;
     font-weight:500;
-    color:rgb(11, 87, 33);
+    color:rgb(127, 255, 212);
     text-align: left;
 }
 .containimage{
