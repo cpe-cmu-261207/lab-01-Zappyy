@@ -52,7 +52,7 @@
     /* margin-left: 180px; */
     font-size: 40px;
     /* padding-top: 30px; */
-    color:rgb(0, 250, 154);
+    color:rgb(135, 206, 250);
     font-weight: 400;
     text-align: center;
 }
@@ -94,14 +94,14 @@
     margin-top: 30px;
     font-family: 'Futura', sans-serif;
     font-size: 29px;
-    color: rgb(204, 121, 66)
+    color: rgb(72, 209, 204)
 }
 
 .scriptskill{
     font-family: 'Futura', sans-serif;
     font-size: 20px;
     text-align: center;
-    color:rgb(127, 255, 212)
+    color:rgb(135, 206, 250)
 }
 .part2 .detail-skill{
     display: flex;
