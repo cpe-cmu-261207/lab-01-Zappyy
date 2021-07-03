@@ -8,17 +8,7 @@ body{
     background: white; 
 }
 
-footer{
-    position: absolute;
-    bottom: 00;
-    left:0;
-    right:0;
-    background-color:white;
-    height: auto;
-    width: 100vw;
-    padding-top: 10px;
-    color: white;
-}
+
 
 .footer-content{
     font-family: 'Futura', sans-serif;
@@ -31,7 +21,7 @@ footer{
 
 .footer-content h3{
     font-family: 'Futura', cursive;
-    color:rgb(116, 79, 0);
+    color:rgb(255, 138, 128);
     font-size: 30px;
     font-weight: 400;
     text-transform:capitalize;
@@ -39,7 +29,7 @@ footer{
 }
 
 .footer-content p{
-    color:rgb(124, 85, 0);
+    color:rgb(255, 138, 128);
     font-weight: 400;
     max-width: 500px;
     margin:2px auto;
