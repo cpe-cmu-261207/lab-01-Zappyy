@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 55px;
+    /* color:rgb(194, 158, 128); */
+    color: rgb(116, 79, 0)
+}
+
+h2 {
+  font-size: 35px;
+  text-align: center;
+  color: rgb(116, 79, 0);
+}
+
+.header{
+  font-family: 'Baloo 2', cursive;
+  color: rgb(168, 166, 118);
+  font-weight:700;
+}
+.detail-color{
+  font-family: 'Baloo 2', cursive;
+  color: rgb(168, 166, 118);
+  font-weight:500
+}
+
+.clip-color{
+  color: gray;
+  font-weight: 400;
+  font-size: 17px;
+}
+
+.clip-color a:hover i b{
+  color: rgb(200, 154, 219);
+}
