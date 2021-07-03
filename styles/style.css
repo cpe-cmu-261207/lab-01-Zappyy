@@ -23,12 +23,12 @@
 }
 
 .font2{
-    font-family: 'Kirang Haerang', cursive;
+    font-family: 'Futura', cursive;
 }
 
 .font-color{
     /* color:rgb(116, 79, 0); */
-    color: rgb(106, 90, 205);
+    color: rgb(255, 69, 0);
 }
 
 
@@ -52,7 +52,7 @@
     /* margin-left: 180px; */
     font-size: 40px;
     /* padding-top: 30px; */
-    color:rgb(135, 206, 250);
+    color:rgb(205, 92, 92);
     font-weight: 400;
     text-align: center;
 }
@@ -101,7 +101,7 @@
     font-family: 'Futura', sans-serif;
     font-size: 20px;
     text-align: center;
-    color:rgb(135, 206, 250)
+    color:rgb(255, 69, 0)
 }
 .part2 .detail-skill{
     display: flex;
