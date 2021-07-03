@@ -49,7 +49,7 @@ footer{
 
 .socials{
     font-family: 'Futura', sans-serif;
-    color:rgb(116, 79, 0);
+    color:rgb(97, 215, 255);
     list-style: none;
     align-items: center;
     justify-content: center;
@@ -65,7 +65,7 @@ footer{
 
 .socials a{
     text-decoration: none;
-    color:rgb(116, 79, 0);
+    color:rgb(97, 215, 255);
     font-weight: 700;
 }
 
@@ -80,7 +80,7 @@ footer{
 }
 
 .footer-bottom{
-    background: rgb(226, 217, 185);
+    background: rgb(255, 138, 128);
     width: 100vw;
     padding: 7px 0;
     text-align: center;
