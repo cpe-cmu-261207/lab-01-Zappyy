@@ -19,7 +19,7 @@
 }
 
 .font1{
-    font-family: 'Caveat', cursive;
+    font-family: 'Futura', cursive;
 }
 
 .font2{
@@ -83,7 +83,7 @@
 }
 
 .titleSkill{
-    font-family: 'Satisfy', cursive;
+    font-family: 'Futura', sans-serif;
     color:rgb(116, 79, 0);
     font-size: 35px;
     text-transform:capitalize;
@@ -92,7 +92,7 @@
 
 .headskill{
     margin-top: 30px;
-    font-family: 'Ubuntu Condensed', sans-serif;
+    font-family: 'Futura', sans-serif;
     font-size: 29px;
     color: rgb(204, 121, 66)
 }
