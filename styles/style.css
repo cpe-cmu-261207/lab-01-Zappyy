@@ -79,12 +79,12 @@
 .skill{
     /* margin-top:130px; */
     /* margin-left:250px; */
-    text-align: left;
+    text-align: center;
 }
 
 .titleSkill{
     font-family: 'Futura', sans-serif;
-    color:rgb(116, 79, 0);
+    color:rgb(255, 99, 71);
     font-size: 35px;
     text-transform:capitalize;
     line-height: 3rem;
