@@ -5,7 +5,7 @@
 }
 
 .navbar{
-    background-color:white;
+    background-color:rgb(64, 224, 208);
     /* position: fixed; */
     width: 100%;
     top:0;
@@ -28,12 +28,12 @@
 
 .font-color{
     /* color:rgb(116, 79, 0); */
-    color: rgb(115, 158, 132);
+    color: rgb(106, 90, 205);
 }
 
 
 .title{
-    color: rgb(120, 90, 46);
+    color: rgb(255, 69, 0);
     opacity: .7;
     font-weight: 300;
     font-size: 40px;
@@ -98,7 +98,7 @@
 }
 
 .scriptskill{
-    font-family: 'Ubuntu Condensed', sans-serif;
+    font-family: 'Futura', sans-serif;
     font-size: 20px;
     text-align: center;
     color:rgb(134, 115, 53)
