@@ -43,16 +43,16 @@
 }
 
 .title span{
-    color: white;
+    color: darkblue;
     font-weight: 500;
     font-size: 60px;
 }
 
 .name{
     /* margin-left: 180px; */
-    font-size: 60px;
+    font-size: 40px;
     /* padding-top: 30px; */
-    color:rgb(77, 67, 34);
+    color:rgb(0, 250, 154);
     font-weight: 400;
     text-align: center;
 }
