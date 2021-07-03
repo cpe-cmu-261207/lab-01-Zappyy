@@ -52,7 +52,7 @@
     /* margin-left: 180px; */
     font-size: 40px;
     /* padding-top: 30px; */
-    color:rgb(255, 111, 97);
+    color:rgb(97, 215, 255);
     font-weight: 400;
     text-align: center;
 }
@@ -84,7 +84,7 @@
 
 .titleSkill{
     font-family: 'Futura', sans-serif;
-    color:rgb(255, 99, 71);
+    color:rgb(97, 215, 255);
     font-size: 35px;
     text-transform:capitalize;
     line-height: 3rem;
@@ -101,7 +101,7 @@
     font-family: 'Futura', sans-serif;
     font-size: 20px;
     text-align: center;
-    color:rgb(255, 69, 0)
+    color:rgb(97, 215, 255)
 }
 .part2 .detail-skill{
     display: flex;
